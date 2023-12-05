@@ -1,1 +1,1 @@
-# nostr-keygen
+This program generates and validates a secp256k1 private key, suitable for use in NOSTR (Notes and Other Stuff Transmitted by Relays) protocols, computes its corresponding public key, and displays both keys in hexadecimal format.
